@@ -1,0 +1,11 @@
+body{background-color: orange;color: black;font-family:Arial, Helvetica, sans-serif;}
+h1{background-color: palegreen;line-height:200%;font-family: Georgia, 'Times New Roman', Times, serif;}
+h2{background-color: brown;font-family: Georgia, 'Times New Roman', Times, serif;}
+p{font-size: larger;text-indent: 3cm;}
+ul{font-weight: bold;}
+.new {color: blueviolet;font-style: italic;}
+#new {color: blanchedalmond;font-size: 2em;font-style: italic;}
+.amaandco {font-weight: bold;font-family: Georgia, 'Times New Roman', Times, serif;font-size: 1.25em;}
+h1{border: 2px solid chocolate;}
+h2{border-bottom: 2px solid cornflowerblue;padding: 5px;}
+h2{border: 2px solid;background: color(srgb rgb(0, 255, 255) green blue);padding-left: 5px;padding-bottom: 10px;padding-top: 10px;} 
